@@ -2,6 +2,8 @@
 
 Hum, whistle or scat into your mic and get a MIDI file you can drop into a DAW.
 
+![mic2midi screenshot](docs/screenshot.png)
+
 Runs as a small standalone window: no install, no dependencies, everything stays on your machine.
 
 ## Run
